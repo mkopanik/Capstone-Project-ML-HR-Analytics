@@ -1,0 +1,1 @@
+Project based on Google Advanced Data Analytics Capstone. In this verstion it definietly lacks inside and conclusion but I focused on having some fun in applying less mainstream tools to make prediction. Catboost is definietly my favourite gradient boosting classifier. I also included implementation of micrograd(basic nn classifier).  
